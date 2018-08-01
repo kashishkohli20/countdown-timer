@@ -1,0 +1,38 @@
+body{
+	background: #ddd;
+	text-align: center;
+}
+table, table td{
+	border: 1px solid #fff;
+	/* padding-left: 40%; */
+}
+
+div{
+	display: inline;
+}
+center{
+	margin-top: 20%;
+}
+.blue{
+	background-color: #99e6ff;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-right: 2%;
+	border-radius: 10px;
+}
+span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #00816A;
+	display: inline-block;
+}
+.green{
+	padding-left: 4%;
+	padding-right: 4%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	background-color: #b3ffb3;
+	border-radius: 10px;
+}
